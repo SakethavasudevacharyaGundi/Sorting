@@ -15,7 +15,3 @@ This repository features five classic sorting algorithms implemented in C, each 
 ### Prerequisites
 You need a C compiler (e.g., GCC, Clang, MSVC) to run these algorithms.
 
-### Compilation
-To compile the code, use the following command:
-```bash
-gcc main.c -o sort
